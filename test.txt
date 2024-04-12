@@ -1,0 +1,16 @@
+// Versoining in coding  
+
+// 4.19.2 
+
+1st part -> 4
+2nd part -> 19
+3rd part -> 2
+
+3rd part (last part) - Minor fixes (Optional).
+
+2nd Part  -> Recommned Version (Bug fix in new Version).
+
+1st part -> major update.
+
+
+
